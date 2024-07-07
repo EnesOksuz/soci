@@ -42,7 +42,7 @@ yarn-error.log
 firebase.js
 realtimeDatabase.js
 ios
-android\app\google-services.json
+android/app/google-services.json
 
 # fastlane
 #
