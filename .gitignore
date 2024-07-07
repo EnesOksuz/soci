@@ -44,7 +44,7 @@ realtimeDatabase.js
 ios
 android/app/src/google-services.json
 android/app/google-services.json
-
+google-services.json
 
 # fastlane
 #
